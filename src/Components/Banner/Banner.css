@@ -1,0 +1,27 @@
+.bannertitle{
+    font-size: 53px;
+}
+.bannerCaptions.carousel-caption {
+    margin-bottom: 165px;
+    font-family: Outfit,sans-serif!important;
+    letter-spacing: .1rem;
+    
+}
+button.btn1 {
+    /* background: green; */
+    background: #149253;
+    color: white;
+    width: 214px;
+    height: 38px;
+    border-color: #149253;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    /* font-family: Outfit,sans-serif!important; */
+    letter-spacing: .1rem;
+    font-family: Outfit;
+    line-height: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}

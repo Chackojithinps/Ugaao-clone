@@ -1,0 +1,10 @@
+.BannerBtm {
+    display: flex;
+    height: 221px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.img1{
+    border: 2px solid violet;
+    border-radius: 55px;
+}
